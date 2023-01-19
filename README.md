@@ -5,9 +5,9 @@
     <img src="images/simonsplash.jpg" alt="Splash" height="500" width="500">
 </div>
 <div align="center">
-<h3 align="center">Starcraft 2 Race Picker</h3>
+<h3 align="center">Simon Says</h3>
   <p align="center">
-    Simon Game.
+    Simple Simon Says game
     <br />
   </p>
 </div>

@@ -7,7 +7,7 @@
 <div align="center">
 <h3 align="center">Simon Says</h3>
   <p align="center">
-    Simple Simon Says game
+    a simple Simon Says game. careful with your volume.
     <br />
   </p>
 </div>
@@ -31,7 +31,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Simon says. To get a better understanding of Javascript. Surprising amount of logic behind this. lol
+Fun project using vanilla JS.
 
 ### Built With
 
